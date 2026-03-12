@@ -77,7 +77,7 @@ spring.jpa.hibernate.ddl-auto=update
 3. Run Spring Boot application
 4. Test APIs using Postman
 
-Error Handling
+## Error Handling
 
 If an employee is not found, the API returns a custom error message:
 
